@@ -7,6 +7,6 @@
  <body>
    <h1>I'm a nt</h1>
    <p>What I'm fucking doing?Who can tell me?</p>
-   <img src="QQ-Images/3dbd5f8ae8c86c54.png">
+   <img src="3dbd5f8ae8c86c54.png">
  </body>
 </html>
