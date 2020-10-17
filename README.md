@@ -4,7 +4,7 @@
  <head>
   <meta charset="utf-8"/>
   <title>对大连理工化工研究生实验室自杀的感触</title>
-  <link href="test.css"rel="stylesheet"type="test/css"/>
+  <link href="YeFengsword.github.io/test.css"rel="stylesheet"type="test/css"/>
  </head>
  <body>
   <h1>看似毫无预兆的悲剧</h1>
